@@ -1,0 +1,20 @@
+[
+    {
+        "loai_giao_dich": "vàng",
+        "so_luong": 2.0,
+        "don_gia": 750000.0,
+        "thanh_tien": 1500000.0
+    },
+    {
+        "loai_giao_dich": "bạc",
+        "so_luong": 5.0,
+        "don_gia": 56999.0,
+        "thanh_tien": 284995.0
+    },
+    {
+        "loai_giao_dich": "tiền",
+        "so_luong": 6.0,
+        "don_gia": 80000.0,
+        "thanh_tien": 480000.0
+    }
+]

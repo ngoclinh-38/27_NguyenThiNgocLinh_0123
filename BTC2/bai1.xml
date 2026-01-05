@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CongTy>
+    <ThongTinChung>
+        <Ten>CTY TNHH ABC</Ten>
+        <MaSo>CTY-001</MaSo>         <!-- mã nội bộ (không bắt buộc) -->
+    </ThongTinChung>
+    
+    <LienHe>
+        <GiamDoc>
+            <HoTen>Nguyễn Văn A</HoTen>
+            <ChucVu>Giám đốc</ChucVu>
+            <Email>nguyenvana@example.com</Email>
+        </GiamDoc>
+        
+        <DiaChi>
+            <Duong>123 Đường Lớn</Duong>
+            <Phuong>Phường 1</Phuong>
+            <Quan>Quận 5</Quan>
+            <ThanhPho>TP. Hồ Chí Minh</ThanhPho>
+            <QuocGia>Việt Nam</QuocGia>
+        </DiaChi>
+        
+        <DienThoai>
+            <VanPhong>+84-28-1234-5678</VanPhong>
+            <DiDong>+84-91-234-5678</DiDong>
+        </DienThoai>
+        
+        <MaSoThue>0101234567</MaSoThue>
+    </LienHe>
+</CongTy>
